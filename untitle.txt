@@ -1,0 +1,8 @@
+<div class="fitem">Teams</div>
+<div class="fitem">Products </div>
+<div class="fitem">Solutions </div>
+<div class="fitem">Resources </div>
+<div class="fitem">Pricing </div>
+<div class="fitem">More </div>
+<div class="fitem">Microsoft </div>
+<div class="fitem">365  </div>
